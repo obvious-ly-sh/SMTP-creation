@@ -2,6 +2,10 @@
 
 <br>
 
+**Prerequisite :** First of all, you need a domain name and a VPS which you can connect on using SSH.
+
+<br>
+
 ## I - Install Postfix :
 
 To install Postfix on Debian, use this command :
