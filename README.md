@@ -1,12 +1,3 @@
-<style>
-    .todo {
-        margin-left: 20px;
-    }
-    .step {
-        margin: 10px;
-    }
-</style>
-
 # Create a SMTP server
 
 <div id="first-step" class="step">
