@@ -30,7 +30,7 @@ Then, go to `/etc/postfix` and edit `main.cf` file. Add this line : `home_mailbo
 
 <br>
 
-## II - Test the smtp :
+## II - Test the SMTP :
 
 First of all, keep in mind that **firewalls and other protections may cause a bug with Postfix**. Also, don't forget to start the service to be able to test the reception.
 
